@@ -1,0 +1,10 @@
+ <configuration timestamp="2018-08-22T19:31:40.448450500Z">
+     <base uri="file:///C:/DB1/workspace/background/build/libs" path="${user.loc}"/>
+     <properties>
+         <property key="user.loc" value="C:/Users/claudemar.junior/Desktop/"/>
+     </properties>
+     <files>
+         <file uri="background-0.0.1-SNAPSHOT.jar" checksum="b7f5867e" size="16812671" classpath="true" comment="restart"/>
+     </files>
+ </configuration>
+
