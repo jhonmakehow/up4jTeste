@@ -1,7 +1,7 @@
  <configuration timestamp="2018-08-22T19:31:40.448450500Z">
      <base uri="file:///C:/DB1/workspace/background/build/libs" path="${user.loc}"/>
      <properties>
-         <property key="user.loc" value="C:/Users/claudemar.junior/Desktop/temp/"/>
+         <property key="user.loc" value="C:/DB1/Atualizador/bin"/>
      </properties>
      <files>
          <file uri="poc-0.0.1-SNAPSHOT.jar" checksum="6b2fe247" size="22274202" classpath="true" comment="restart"/>
