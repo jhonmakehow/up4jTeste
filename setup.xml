@@ -4,7 +4,7 @@
          <property key="user.loc" value="C:/DB1/Atualizador/bin"/>
      </properties>
      <files>
-         <file uri="poc-0.0.1-SNAPSHOT.jar" checksum="6b2fe247" size="22274202" classpath="true" comment="restart"/>
+         <file uri="poc-0.0.1-SNAPSHOT.jar" checksum="6b2fe247" size="22276790" classpath="true" comment="restart"/>
      </files>
  </configuration>
 
