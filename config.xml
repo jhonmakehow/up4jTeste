@@ -7,7 +7,7 @@
          <file uri="background-0.0.1-SNAPSHOT.jar" checksum="b7f5867e" size="16812671" classpath="true" comment="restart"/>
      </files>
      <files>
-         <file uri="setup.xml" checksum="b7f5867e" size="16812671" classpath="true" comment="restart"/>
+         <file uri="setup.xml" checksum="b7f5867e" size="429" classpath="true" comment="restart"/>
      </files>
  </configuration>
 
