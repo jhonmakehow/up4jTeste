@@ -4,7 +4,7 @@
          <property key="user.loc" value="C:/BRK/Atualizador/bin"/>
      </properties>
      <files>
-         <file uri="poc-0.0.1-SNAPSHOT.jar" size="22276790" classpath="true" comment="poc-0.0.1-SNAPSHOT.jar"/>
+         <file uri="poc-0.0.1-SNAPSHOT.jar" size="22276790" comment="poc-0.0.1-SNAPSHOT.jar"/>
      </files>
  </configuration>
 
