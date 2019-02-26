@@ -4,7 +4,6 @@
          <property key="user.loc" value="C:/totem/"/>
      </properties>
      <files>
-	 <file uri="atualizador-brk-0.0.1-SNAPSHOT.jar" path="C:/BRK/Atualizador/bin/atualizador-brk-0.0.1-SNAPSHOT.jar" checksum="73ccbb70" size="22282871" comment="atualizador-brk-0.0.1-SNAPSHOT.jar"/>
 	 <file uri="CeJsm.dll" checksum="b0ab6dc8" size="90112" modulepath="false" />
          <file uri="CeJsm64.dll" checksum="6888fb9e" size="109568" modulepath="false" />
          <file uri="CliSiTef.ini" checksum="6cc7380b" size="166" modulepath="false" />
@@ -13,7 +12,6 @@
          <file uri="jCliSiTefI.dll" checksum="537f0fc1" size="98304" modulepath="false" />
          <file uri="libemv.dll" checksum="1579eddd" size="253952" modulepath="false" />
          <file uri="libseppemv.dll" checksum="89eef30e" size="139264" modulepath="false" />
-         <file uri="LocalServer.jar" checksum="f03f1f2d" size="297853" modulepath="false" />
          <file uri="Newtonsoft.Json.dll" checksum="f52fab4c" size="526336" modulepath="false" />
          <file uri="Newtonsoft.Json.xml" checksum="92ec29d7" size="513992" modulepath="false" />
          <file uri="RechargeRPC.dll" checksum="02271e95" size="65536" modulepath="false" />
@@ -22,5 +20,8 @@
       	 <file uri="sitefDatabase.db" checksum="ba3f34b3" size="33432" modulepath="false" />
 	 <file uri="sitefDatabase.db.p" checksum="69b4cc24" size="19664" modulepath="false" />
 	 <file uri="sitefDatabase.db.t" checksum="1dae0222" size="16" modulepath="false" />
+	 <file uri="atualizador-brk-0.0.1-SNAPSHOT.jar" path="C:/BRK/Atualizador/bin/atualizador-brk-0.0.1-SNAPSHOT.jar" checksum="73ccbb70" size="22282871" comment="atualizador-brk-0.0.1-SNAPSHOT.jar"/>
+	 <file uri="LocalServer.jar" checksum="f03f1f2d" size="297853" modulepath="false" />
+         <file uri="appServer.jar" checksum="f9cbd654" size="125101935" modulepath="false"/>
      </files>
  </configuration>
