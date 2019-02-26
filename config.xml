@@ -21,7 +21,7 @@
          <file uri="zDriverAdapter.dll" checksum="d8b67726" size="89088" modulepath="false" />
          <file uri="zDriverAdapter64.dll" checksum="5aac87d9" size="124416" modulepath="false" />
       	 <file uri="sitefDatabase.db" checksum="ba3f34b3" size="33432" modulepath="false" />
-	 file uri="sitefDatabase.db.p" checksum="69b4cc24" size="19664" modulepath="false" />
-	 file uri="sitefDatabase.db.t" checksum="1dae0222" size="16" modulepath="false" />
+	 <file uri="sitefDatabase.db.p" checksum="69b4cc24" size="19664" modulepath="false" />
+	 <file uri="sitefDatabase.db.t" checksum="1dae0222" size="16" modulepath="false" />
      </files>
  </configuration>
