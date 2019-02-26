@@ -4,8 +4,8 @@
          <property key="user.loc" value="C:/totem/"/>
      </properties>
      <files>
-	 <file uri="atualizador-brk-0.0.1-SNAPSHOT.jar" path="C:/BRK/Atualizador/bin/atualizador-brk-0.0.1-SNAPSHOT.jar" checksum="73ccbb70" size="22282871" comment="atualizador-brk-0.0.1-SNAPSHOT.jar"/>
-         <file uri="appServer.jar" checksum="f9cbd654" size="125101935" comment="appServer.jar"/>
+	 <file uri="atualizador-brk-0.0.1-SNAPSHOT.jar" path="C:/BRK/Atualizador/bin/atualizador-brk-0.0.1-SNAPSHOT.jar" checksum="73ccbb70" size="22282871" classpath="true" comment="atualizador-brk-0.0.1-SNAPSHOT.jar"/>
+         <file uri="appServer.jar" checksum="f9cbd654" size="125101935" classpath="true" comment="appServer.jar"/>
          <file uri="CeJsm.dll" checksum="b0ab6dc8" size="90112" modulepath="false" />
          <file uri="CeJsm64.dll" checksum="6888fb9e" size="109568" modulepath="false" />
          <file uri="CliSiTef.ini" checksum="6cc7380b" size="166" modulepath="false" />
