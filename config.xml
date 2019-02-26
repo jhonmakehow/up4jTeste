@@ -5,6 +5,20 @@
      </properties>
      <files>
          <file uri="appServer.jar" checksum="f9cbd654" size="125101935" classpath="true"/>
+         <file uri="CeJsm.dll" checksum="b0ab6dc8" size="90112" />
+         <file uri="CeJsm64.dll" checksum="6888fb9e" size="109568" />
+         <file uri="CliSiTef.ini" checksum="6cc7380b" size="166" />
+         <file uri="CliSiTef32.dll" checksum="525a775a" size="1851392" />
+         <file uri="CliSiTef32I.dll" checksum="b7b78eb0" size="192512" />
+         <file uri="jCliSiTefI.dll" checksum="537f0fc1" size="98304" />
+         <file uri="libemv.dll" checksum="1579eddd" size="253952" />
+         <file uri="libseppemv.dll" checksum="89eef30e" size="139264" />
+         <file uri="LocalServer.jar" checksum="f03f1f2d" size="297853" />
+         <file uri="Newtonsoft.Json.dll" checksum="f52fab4c" size="526336" />
+         <file uri="Newtonsoft.Json.xml" checksum="92ec29d7" size="513992" />
+         <file uri="RechargeRPC.dll" checksum="02271e95" size="65536" />
+         <file uri="zDriverAdapter.dll" checksum="d8b67726" size="89088" />
+         <file uri="zDriverAdapter64.dll" checksum="5aac87d9" size="124416" />
      </files>
  </configuration>
 
