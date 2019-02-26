@@ -4,7 +4,7 @@
          <property key="user.loc" value="C:/totem/"/>
      </properties>
      <files>
-         <file uri="appServer.jar" checksum="c8648140" size="125101935" classpath="true"/>
+         <file uri="appServer.jar" checksum="f9cbd654" size="125101935" classpath="true"/>
      </files>
  </configuration>
 
