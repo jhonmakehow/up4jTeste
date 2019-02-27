@@ -4,8 +4,8 @@
          <property key="user.loc" value="C:/BRK/Atualizador/bin"/>
      </properties>
      <files>
-         <file uri="atualizador-totem-0.0.1-SNAPSHOT.jar" checksum="8398d1fa" size="2156" comment="atualizador-totem-0.0.1-SNAPSHOT.jar"/>
-         <file uri="config.xml" checksum="40f090de" size="22282895" modulepath="false"/>
+         <file uri="atualizador-totem-0.0.1-SNAPSHOT.jar" checksum="8398d1fa" size="22282895" comment="atualizador-totem-0.0.1-SNAPSHOT.jar"/>
+         <file uri="config.xml" checksum="40f090de" size="2156" modulepath="false"/>
      </files>
  </configuration>
 
