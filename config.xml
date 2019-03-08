@@ -22,6 +22,6 @@
 	 <file uri="sitefDatabase.db.t" checksum="1dae0222" size="16" modulepath="false" />
 	 <file uri="atualizador-brk-0.0.1-SNAPSHOT.jar" path="C:/BRK/Atualizador/bin/atualizador-brk-0.0.1-SNAPSHOT.jar" checksum="8945549a" size="22283266" comment="atualizador-brk-0.0.1-SNAPSHOT.jar"/>
 	 <file uri="LocalServer.jar" checksum="f03f1f2d" size="297853" modulepath="false" ignoreBootConflict="true" />
-         <file uri="appServer.jar" checksum="f9cbd654" size="125101935" ignoreBootConflict="true" comment="appServer.jar"/>
+         <file uri="appServer.jar" checksum="f9cbd654" size="125101935" ignoreBootConflict="true" comment="appServer.jar isTotem"/>
      </files>
  </configuration>
