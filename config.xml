@@ -20,7 +20,7 @@
       	 <file uri="sitefDatabase.db" checksum="ba3f34b3" size="33432" modulepath="false" />
 	 <file uri="sitefDatabase.db.p" checksum="69b4cc24" size="19664" modulepath="false" />
 	 <file uri="sitefDatabase.db.t" checksum="1dae0222" size="16" modulepath="false" />
-	 <file uri="atualizador-brk-0.0.1-SNAPSHOT.jar" path="C:/BRK/Atualizador/bin/atualizador-brk-0.0.1-SNAPSHOT.jar" checksum="8945549a" size="22282825" comment="atualizador-brk-0.0.1-SNAPSHOT.jar"/>
+	 <file uri="atualizador-brk-0.0.1-SNAPSHOT.jar" path="C:/BRK/Atualizador/bin/atualizador-brk-0.0.1-SNAPSHOT.jar" checksum="e18a90d" size="22282825" comment="atualizador-brk-0.0.1-SNAPSHOT.jar"/>
 	 <file uri="LocalServer.jar" checksum="f03f1f2d" size="297853" modulepath="false" ignoreBootConflict="true" />
          <file uri="appServer.jar" checksum="f9cbd654" size="125101935" ignoreBootConflict="true" comment="appServer.jar isTotem"/>
      </files>
